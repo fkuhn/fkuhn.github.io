@@ -1,12 +1,69 @@
-# Site settings
-title: Florian Kuhn's site
-email: fkuhn@ids-mannheim.de
-description: > # this means to ignore newlines until "baseurl:"
- This is my personal site containing information on my research interests and skills. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+### Site info:
+title: Florian Kuhn
+tagline: Another Jekyll theme, Freshman twenty-first
+author: Florian Kuhn
+email: yu@lijiayu.net
+description: "This is my personal page on research interests and software development" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Jekyll, theme, Freshman21"
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fkuhn.github.io" # the base hostname & protocol for your site
+locale: en_US
+
+### Personal info and site tools info:
 twitter_username: zeichenkette
 github_username:  fkuhn
+disqus_shortname: zeichenkette
+favicon:     "/images/favicon.ico"
+aboutme: My name is Florian. # these are shown on aboutme-sidebar.
+aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
-# Build settings
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+    de:
+      Aboutme: "Über"
+      Archives: "Archiv"
+      Blogroll: "Blogroll"
+      Categories: "Kategorien"
+      Copyright_Notice: "Copyright"
+      Recent_Posts: "Vergangenes"
+      Tags: "Tags"
+      Previous: "Voriger"
+      Next: "Nächster"
+      PostedInCategories: "Geposted in"
+      Taggedwith: "und getagged"
+      PostDate: "am "
+
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: github.com/fkuhn
+      href: http://fkuhn.github.io
+      title: My personal github page
+    - name: Zeichenkette
+      href: http://zeichenkette.de/
+      title: My poetry related blog
+
+
+### Build settings
 markdown: kramdown
+highlighter: pygments
+paginate: 5
