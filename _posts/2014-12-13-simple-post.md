@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: Sample Post
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
@@ -42,19 +43,19 @@ This is figure
 
 *This is emphasized*.
 
- 53 = 125. Water is H<sub>2</sub>O. 
+ 53 = 125. Water is H<sub>2</sub>O.
 
-The New York Times <cite>(That’s a citation)</cite>. 
+The New York Times <cite>(That’s a citation)</cite>.
 
-<u>Underline</u>. 
+<u>Underline</u>.
 
 
-<del>HTML and CSS are our tools</del>. 
+<del>HTML and CSS are our tools</del>.
 
 ## Blockquotes
 
 > Justification:
-> This species is listed as Extinct in the Wild, as all populations are still under captive management. The captive population in China has increased in recent years, and the possibility remains that free-ranging populations can be established some time in the near future. When that happens, its Red List status will need to be reassessed. 
+> This species is listed as Extinct in the Wild, as all populations are still under captive management. The captive population in China has increased in recent years, and the possibility remains that free-ranging populations can be established some time in the near future. When that happens, its Red List status will need to be reassessed.
 
 > I follow up the quest. Despite of day and night and death and hell.
 > <center> -- Idylls of the King, Tennyson </center>
@@ -87,7 +88,7 @@ The New York Times <cite>(That’s a citation)</cite>.
 
 
 | Kingdom | Phylum  | Class | Order | Family |
-|:------:|:------:|:------:|:------:|:------:| 
+|:------:|:------:|:------:|:------:|:------:|
 |ANIMALIA|CHORDATA|MAMMALIA|CETARTIODACTYLA|CERVIDAE|
 
 
@@ -113,7 +114,7 @@ end
 {% endhighlight %}
 
 
-## $$\LaTeX$$ 
+## $$\LaTeX$$
 
 you can use latex with <q>double $$ </q>
 

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: How to install this theme
 categories: articles
@@ -23,4 +24,4 @@ Then, change the folder name to you own github page name, forexample
 
  $ mv freshman thisisyouname.github.io
 
-{% endhighlight %} 
+{% endhighlight %}
