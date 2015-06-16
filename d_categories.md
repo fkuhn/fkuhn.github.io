@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page
 title: Categories
 permalink: /categories/
@@ -23,4 +24,3 @@ permalink: /categories/
 <span>No posts</span>
 {% endif %}
 </ul>
-
