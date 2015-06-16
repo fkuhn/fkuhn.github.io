@@ -3,7 +3,7 @@ title: Florian Kuhn's github page
 tagline: ""
 author: Florian Kuhn
 email: kuhn@ids-mannheim.de
-description: "This is my personal page on research interests and software development" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "This is my personal page on natural language processing, machine learning and programming" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "research, python, nlp, personal page"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fkuhn.github.io" # the base hostname & protocol for your site
@@ -13,7 +13,7 @@ locale: en_US
 twitter_username: zeichenkette
 github_username:  fkuhn
 favicon:     "/images/favicon.ico"
-aboutme: My name is Florian Kuhn. # these are shown on aboutme-sidebar.
+aboutme: "" # these are shown on aboutme-sidebar.
 aboutme_photo: http://i.imgur.com/IM7pAIF.jpg # your photo.
 
 
