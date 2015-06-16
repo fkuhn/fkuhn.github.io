@@ -1,8 +1,8 @@
 ### Site info:
-title: Florian Kuhn
-tagline: Another Jekyll theme, Freshman twenty-first
+title: Florian Kuhn's github page
+tagline: ""
 author: Florian Kuhn
-email: yu@lijiayu.net
+email: kuhn@ids-mannheim.de
 description: "This is my personal page on research interests and software development" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "research, python, nlp, personal page"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,10 +12,9 @@ locale: en_US
 ### Personal info and site tools info:
 twitter_username: zeichenkette
 github_username:  fkuhn
-disqus_shortname: zeichenkette
 favicon:     "/images/favicon.ico"
 aboutme: My name is Florian Kuhn. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
+aboutme_photo: http://i.imgur.com/IM7pAIF.jpg # your photo.
 
 
 ### Site setting:
