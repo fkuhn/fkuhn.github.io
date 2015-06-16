@@ -27,28 +27,13 @@ locales:
       Aboutme: "About Me"
       Archives: "Archives"
       Blogroll: "Blogroll"
-      Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
       Recent_Posts: "Recent Posts"
-      Tags: "Tags"
       Previous: "Older"
       Next: "Newer"
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
       PostDate: "on "
-    de:
-      Aboutme: "Über"
-      Archives: "Archiv"
-      Blogroll: "Blogroll"
-      Categories: "Kategorien"
-      Copyright_Notice: "Copyright"
-      Recent_Posts: "Vergangenes"
-      Tags: "Tags"
-      Previous: "Voriger"
-      Next: "Nächster"
-      PostedInCategories: "Geposted in"
-      Taggedwith: "und getagged"
-      PostDate: "am "
 
 
 ### your Blogroll info, only name can shown on the page.
@@ -59,7 +44,7 @@ Blogroll:
       title: My personal github page
     - name: Zeichenkette
       href: http://zeichenkette.de/
-      title: My poetry related blog
+      title: My poetry related blog (german)
 
 
 ### Build settings
