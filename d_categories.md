@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 title: Categories
 permalink: /categories/

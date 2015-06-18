@@ -1,0 +1,13 @@
+published: true
+title: Checksum Handling for cmdi resources
+layout: post
+author: Florian
+category: articles
+tags:
+
+### checksum handling for cmdi resources
+A straightforward problem set is the file integrity check for collections of metadata and primary data. Metadata and primary
+language research data hosted at the IDS are very heterogenous by nature. What is important in terms of file integrity 
+is to divide them into two groups
+1. Resources that are based on projects finished where changes are mainly corrections to the data provided.
+2. Resources that are based on projects running with frequent changes to files, additions of related data, or other 
