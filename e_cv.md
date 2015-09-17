@@ -5,7 +5,6 @@ title: CV
 comments: no
 permalink: /cv/
 ---
-### CV
 
 * since June 2014: Data preservation project at the Institute for the German language, Mannheim. Germany.
     * Metadata transformation of Language Resources according (Clarin.eu)[http://clarin.eu] standards.
